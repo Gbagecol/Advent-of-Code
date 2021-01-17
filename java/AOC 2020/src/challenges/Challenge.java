@@ -32,7 +32,7 @@ public abstract class Challenge {
 		
 		runPartOne();
 		
-		System.out.println("          PART TWO          ");
+		System.out.println("\n\n          PART TWO          ");
 		System.out.println("----------------------------\n");
 		
 		runPartTwo();
